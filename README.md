@@ -5,10 +5,10 @@ Hi, I'm Ferdy!
 	</a>
 </h1>
 <p align="center">
-  <a href="mailto:duniaferdy@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="23px"/></a>
-  <a href="https://www.linkedin.com/in/ferdyrizkiawan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="23px"/></a>
-	<a href="https://www.instagram.com/ferdyrizkiawan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="23px"/></a>
-	<a href="https://www.codeforces.com/profile/Ferdy-Raw/"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" height="23px"/></a>
+  <a href="mailto:duniaferdy@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="22px"/></a>
+  <a href="https://www.linkedin.com/in/ferdyrizkiawan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="22px"/></a>
+	<a href="https://www.instagram.com/ferdyrizkiawan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="22px"/></a>
+	<a href="https://www.codeforces.com/profile/Ferdy-Raw/"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" height="22px"/></a>
 	<a>
 		<img src="https://komarev.com/ghpvc/?username=ferdyraw&label=Profile%20views&color=0e75b6&style=flat" alt="ferdyraw"/>
 	</a>
@@ -33,6 +33,6 @@ Hi, I'm Ferdy!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferdyraw&show_icons=true&locale=en&layout=compact" alt="ferdyraw"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferdyraw&show_icons=true&locale=en" alt="ferdyraw" height="165px"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferdyraw&show_icons=true&locale=en" alt="ferdyraw" height="166px"/></p>
 
 -----
