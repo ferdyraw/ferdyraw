@@ -5,7 +5,7 @@ Hi, I'm Ferdy!
 	</a>
 </h1>
 <p align="center">
-  <a href="mailto:duniaferdy@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://mailto:duniaferdy@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/ferdyrizkiawan/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/ferdyraw">
 		<img src="https://komarev.com/ghpvc/?username=ferdyraw&label=Profile%20views&color=0e75b6&style=flat" alt="ferdyraw" />
