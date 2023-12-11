@@ -22,6 +22,11 @@ Hi, I'm Ferdy!
 
 <hr>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferdyraw&show_icons=true&locale=en&layout=compact" alt="ferdyraw"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferdyraw&show_icons=true&locale=en" alt="ferdyraw" height="166px"/></p>
+
+<hr>
+
 <pre>
 📚 I'm currently studying Computer Science at Sebelas Maret University
 🌱 Learning about Data Science and Competitive Programming
@@ -29,10 +34,5 @@ Hi, I'm Ferdy!
 🌟 Main languages: C++, Python
 ⚡ Fun fact: I've never touched full stack
 </pre>
-<hr>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferdyraw&show_icons=true&locale=en&layout=compact" alt="ferdyraw"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferdyraw&show_icons=true&locale=en" alt="ferdyraw" height="166px"/></p>
 
 -----
