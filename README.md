@@ -25,7 +25,7 @@ Hi, I'm Ferdy!
 <pre>
 📚 I'm currently studying Computer Science at Sebelas Maret University
 🌱 Learning about Data Science and Competitive Programming
-💻 I have a strong interest in Business and Technology
+💻 Have a strong interest in Business and Technology
 🌟 Main languages: C++, Python
 ⚡ Fun fact: I've never touched full stack
 </pre>
