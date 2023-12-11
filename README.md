@@ -31,7 +31,7 @@ Hi, I'm Ferdy!
 </pre>
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferdyraw&show_icons=true&locale=en&layout=compact" alt="ferdyraw" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferdyraw&show_icons=true&locale=en&layout=compact" alt="ferdyraw" height="195px"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferdyraw&show_icons=true&locale=en" alt="ferdyraw" /></p>
 
