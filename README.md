@@ -10,7 +10,7 @@ Hi, I'm Ferdy!
 	<a href="https://www.instagram.com/ferdyrizkiawan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	<a href="https://www.codeforces.com/profile/Ferdy-Raw/"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/></a>
 	<a href="https://github.com/ferdyraw">
-		<img src="https://komarev.com/ghpvc/?username=ferdyraw&label=Profile%20views&color=0e75b6&style=flat" alt="ferdyraw" height="26" width="140"/>
+		<img src="https://komarev.com/ghpvc/?username=ferdyraw&label=Profile%20views&color=0e75b6&style=flat" alt="ferdyraw" height="27" width="160"/>
 	</a>
 </p>
 <br/>
