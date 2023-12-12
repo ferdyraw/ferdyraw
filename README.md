@@ -5,10 +5,10 @@ Hi, I'm Ferdy!
 	</a>
 </h1>
 <p align="center">
-  <a href="mailto:duniaferdy@gmail.com" target="_blank"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="22px"/></a>
-  <a href="https://www.linkedin.com/in/ferdyrizkiawan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="22px"/></a>
-	<a href="https://www.instagram.com/ferdyrizkiawan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="22px"/></a>
-	<a href="https://codeforces.com/profile/Ferdy-Raw" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" height="22px"/></a>
+  <a href="mailto:duniaferdy@gmail.com" target="_blank" rel="noopener"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="22px"/></a>
+  <a href="https://www.linkedin.com/in/ferdyrizkiawan/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="22px"/></a>
+	<a href="https://www.instagram.com/ferdyrizkiawan/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="22px"/></a>
+	<a href="https://codeforces.com/profile/Ferdy-Raw" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" height="22px"/></a>
 	<a>
 		<img src="https://komarev.com/ghpvc/?username=ferdyraw&label=Profile%20views&color=0e75b6&style=flat" alt="ferdyraw"/>
 	</a>
