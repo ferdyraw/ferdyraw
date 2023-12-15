@@ -9,6 +9,7 @@ Hi, I'm Ferdy!
   <a href="https://www.linkedin.com/in/ferdyrizkiawan/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="22px"/></a>
 	<a href="https://www.instagram.com/ferdyrizkiawan/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="22px"/></a>
 	<a href="https://codeforces.com/profile/Ferdy-Raw" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" height="22px"/></a>
+	<a href="https://kaggle.com/ferdyraw" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" height="22px"/></a>
 	<a>
 		<img src="https://komarev.com/ghpvc/?username=ferdyraw&label=Profile%20views&color=0e75b6&style=flat" alt="ferdyraw"/>
 	</a>
