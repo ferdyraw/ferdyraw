@@ -28,7 +28,7 @@ Hi, I'm Ferdy!
 🌱 Learning about Data Science and Competitive Programming
 💻 Have a strong interest in Business and Technology
 🌟 Main languages: C++, Python
-⚡ Fun fact: I've never touched full stack
+⚡ Fun fact: I have more sad facts
 </pre>
 
 <hr>
